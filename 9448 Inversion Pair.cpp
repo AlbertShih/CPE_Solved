@@ -1,7 +1,7 @@
 
 #include <iostream>
 //desktop
-using namespace std;
+using namespace DOCUUU;
 
 long long merge(int *arr, int *temp, int l, int m, int r)
 {
